@@ -22,7 +22,7 @@
 ## Course:
  
  - Data Science - Udemy
- - python - Learnbay
+ - Python - Learnbay
 
 ## Education:
 
