@@ -18,3 +18,12 @@
 ## 🌱 Learning & Growth: 
 
   I'm continuously improving my skills through online courses, workshops, and hands-on projects. I believe in the power of data to drive decisions and innovation.
+
+## Course:
+ 
+ - Data Science - Udemy
+ - python - Learnbay
+
+## Education:
+
+ - U.G in Civil Engineering on 2019.
