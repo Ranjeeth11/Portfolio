@@ -4,7 +4,7 @@
 
 - Languages: Python, R, SQL
 - Libraries & Frameworks: TensorFlow, Keras, Scikit-learn, Pandas, NumPy
-- Data Visualization: Matplotlib, Seaborn, Plotly
+- Data Visualization: Matplotlib, Seaborn, PowerBI
 - Tools: Git, Jupyter Notebook, Tableau
 - Areas of Interest: Natural Language Processing, Computer Vision, Predictive Analytics
 
