@@ -8,7 +8,7 @@
 - Tools: Git, Jupyter Notebook, Tableau
 - Areas of Interest: Natural Language Processing, Computer Vision, Predictive Analytics
 
-## 📚 Projects:
+## 📚 Projects: [https://github.com/Ranjeeth11/Hands_On_Projects.git]
 
 - Developed a sentiment analysis model using LSTM to classify text data.
 - Created a convolutional neural network for image classification (Cats vs. Dogs).
