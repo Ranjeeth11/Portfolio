@@ -15,7 +15,7 @@ Description: A custom NER model trained using SpaCy to extract entities like nam
 - Dataset: Annotated dataset with custom entity labels.
 - Tech Stack: SpaCy, Python, Jupyter
 - Skills Highlighted: Data preprocessing, custom entity recognition, model evaluation.
-- 📌 View Project
+- [📌 View Project](https://github.com/Ranjeeth11/Hands_On_Projects/tree/b8bbc07b8a238d6af5d4b4dd9fdb818aee4fb7fa/Projects/NLP)
 
 ## 2️⃣ Text Summarization with Transformers
 Description: Built a text summarization system using Hugging Face's T5 Transformer model. Generates concise summaries for long-form documents.
@@ -23,7 +23,7 @@ Description: Built a text summarization system using Hugging Face's T5 Transform
 - Dataset: CNN/Daily Mail
 - Tech Stack: Python, PyTorch, Hugging Face Transformers
 - Skills Highlighted: Transformer models, fine-tuning, summarization techniques.
-- 📌 View Project
+- [📌 View Project](https://github.com/Ranjeeth11/Hands_On_Projects/tree/b8bbc07b8a238d6af5d4b4dd9fdb818aee4fb7fa/Projects/NLP)
 
 ## 3️⃣ Chatbot using Seq2Seq Model
 Description: Developed a conversational chatbot using an encoder-decoder architecture (Seq2Seq with attention).
@@ -31,7 +31,7 @@ Description: Developed a conversational chatbot using an encoder-decoder archite
 - Dataset: Cornell Movie Dialogs
 - Tech Stack: TensorFlow, Keras
 - Skills Highlighted: Sequence-to-sequence modeling, chatbot creation, conversational AI.
-- 📌 View Project
+- [📌 View Project](https://github.com/Ranjeeth11/Hands_On_Projects/tree/b8bbc07b8a238d6af5d4b4dd9fdb818aee4fb7fa/Projects/NLP)
 
 ## 4️⃣ Question Answering System with BERT
 Description: Implemented a QA system using pre-trained BERT. Given a context and a question, the model extracts the correct answer span from the text.
@@ -39,21 +39,21 @@ Description: Implemented a QA system using pre-trained BERT. Given a context and
 - Dataset: SQuAD 2.0
 - Tech Stack: Python, Hugging Face Transformers
 - Skills Highlighted: Question answering, BERT fine-tuning, dataset preparation.
-- 📌 View Project
+- [📌 View Project](https://github.com/Ranjeeth11/Hands_On_Projects/tree/b8bbc07b8a238d6af5d4b4dd9fdb818aee4fb7fa/Projects/NLP)
 
 ## 5️⃣ Speech-to-Text Conversion
 Description: Built a speech-to-text system using the SpeechRecognition library, enabling real-time transcription.
 
 - Tech Stack: Python, PyAudio, SpeechRecognition
 - Skills Highlighted: Speech recognition, audio preprocessing, real-time inference.
-- 📌 View Project
+- [📌 View Project](https://github.com/Ranjeeth11/Hands_On_Projects/tree/b8bbc07b8a238d6af5d4b4dd9fdb818aee4fb7fa/Projects/NLP)
 
 ## 6️⃣ Text Generation using GPT-2
 Description: Created a text generator using GPT-2 to generate coherent and contextually relevant sentences from prompts.
 
 - Tech Stack: Hugging Face Transformers, PyTorch
 - Skills Highlighted: Text generation, language modeling, transformer-based NLP.
-- 📌 View Project
+- [📌 View Project](https://github.com/Ranjeeth11/Hands_On_Projects/tree/b8bbc07b8a238d6af5d4b4dd9fdb818aee4fb7fa/Projects/NLP)
 
 ## 🛠 Tools & Technologies
 - Programming Languages: Python, SQL
