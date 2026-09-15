@@ -69,16 +69,30 @@
         </div>
       </div>
 
-      <div class="hero__panel reveal" aria-label="Core capability areas">
-        <div class="hero__panel-head">SYSTEM CAPABILITIES</div>
-        <ul class="capability-list">
-          <li><span class="capability-index">01</span><span>Agentic Systems</span><i class="pulse-dot" aria-hidden="true"></i></li>
-          <li><span class="capability-index">02</span><span>LLM / RAG</span><i class="pulse-dot" aria-hidden="true"></i></li>
-          <li><span class="capability-index">03</span><span>Voice AI</span><i class="pulse-dot" aria-hidden="true"></i></li>
-          <li><span class="capability-index">04</span><span>Computer Vision</span><i class="pulse-dot" aria-hidden="true"></i></li>
-          <li><span class="capability-index">05</span><span>Production AI</span><i class="pulse-dot" aria-hidden="true"></i></li>
-          <li><span class="capability-index">06</span><span>AI Research</span><i class="pulse-dot" aria-hidden="true"></i></li>
-        </ul>
+      <div class="hero-system reveal" aria-label="AI systems capability map: LLM connects to RAG, Agentic AI, Voice AI and Computer Vision, which converge into Production AI.">
+        <div class="hero-system__head"><span>AI SYSTEMS MAP</span><span class="hero-system__status"><i aria-hidden="true"></i>LIVE CAPABILITIES</span></div>
+        <div class="hero-system__diagram">
+          <svg class="hero-system__wires" viewBox="0 0 600 300" aria-hidden="true" preserveAspectRatio="none">
+            <path pathLength="1" d="M300 44V74H100V105 M300 74V105 M300 74H500V105 M100 149V190H300 M300 149V190 M500 149V190H300 M300 190V220H200V256 M300 220H400V256" />
+            <path class="hero-system__signal" pathLength="1" d="M300 44V74H100V105" />
+            <path class="hero-system__signal hero-system__signal--two" pathLength="1" d="M300 44V74V105" />
+            <path class="hero-system__signal hero-system__signal--three" pathLength="1" d="M300 44V74H500V105" />
+            <path class="hero-system__signal hero-system__signal--four" pathLength="1" d="M100 149V190H300V220H200V256" />
+          </svg>
+          <div class="system-row system-row--top">
+            <div class="system-node system-node--llm"><span class="system-node__index">01</span><strong>LLM</strong><i class="system-node__status" aria-hidden="true"></i></div>
+          </div>
+          <div class="system-row system-row--middle">
+            <div class="system-node"><span class="system-node__index">02</span><strong>RAG</strong><i class="system-node__status" aria-hidden="true"></i></div>
+            <div class="system-node"><span class="system-node__index">03</span><strong>AGENTIC AI</strong><i class="system-node__status" aria-hidden="true"></i></div>
+            <div class="system-node"><span class="system-node__index">04</span><strong>VOICE AI</strong><i class="system-node__status" aria-hidden="true"></i></div>
+          </div>
+          <div class="system-row system-row--bottom">
+            <div class="system-node system-node--production"><span class="system-node__index">05</span><strong>PRODUCTION AI</strong><i class="system-node__status" aria-hidden="true"></i></div>
+            <div class="system-node system-node--vision"><span class="system-node__index">06</span><strong>COMPUTER VISION</strong><i class="system-node__status" aria-hidden="true"></i></div>
+          </div>
+        </div>
+        <div class="hero-system__foot"><span>ORCHESTRATE</span><span>GROUND</span><span>SHIP</span></div>
       </div>
     </div>
     <a href="#work" class="scroll-cue" aria-hidden="true"><span></span></a>
